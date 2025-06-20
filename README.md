@@ -9,10 +9,6 @@ Ask general knowledge questions
 Generate customized recipes using AI based on ingredients, cuisine, and dietary preferences
 
 
-![Screenshot 2025-06-20 194732](https://github.com/user-attachments/assets/6114ba86-6a2f-4741-9c1c-fc99cc22b298)
-![Screenshot 2025-06-20 194806](https://github.com/user-attachments/assets/31b55d59-f5a6-4bea-a5de-9dbdebee0a8e)
-![Screenshot 2025-06-20 193545](https://github.com/user-attachments/assets/99c8bbc0-e444-4c3e-b5a0-e152cff0bfe4)
-
 
 # 💬 AI-Powered Assistant with Recipe Generator & Image Creation
 
