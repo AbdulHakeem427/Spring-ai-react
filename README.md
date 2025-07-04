@@ -1,5 +1,5 @@
 
-🌱 # Spring AI - Ask AI & Recipe Generator
+🌱 # SmartChef AI - Ask AI & Recipe Generator
 
 
 A simple Spring Boot + React application integrating Spring AI with Ollama to:
