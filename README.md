@@ -2,6 +2,9 @@
 🌱 # SmartChef AI - Ask AI & Recipe Generator
 
 
+![WhatsApp Image 2025-09-03 at 11 33 28 AM](https://github.com/user-attachments/assets/330098da-330a-40ec-8846-cd5689e6ca5a)
+![WhatsApp Image 2025-09-03 at 11 33 28 AM](https://github.com/user-attachments/assets/285dd01b-1b86-45b0-bc58-e0cae753ffc1)
+
 A simple Spring Boot + React application integrating Spring AI with Ollama to:
 
 Ask general knowledge questions
